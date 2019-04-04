@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://kamesh:kamesh123@shop-list-xqwso.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "sl_myJwtSecret"
+}
